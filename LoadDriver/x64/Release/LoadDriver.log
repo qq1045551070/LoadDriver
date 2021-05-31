@@ -1,0 +1,11 @@
+﻿  Building 'LoadDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Loaddriver.cpp
+g:\驱动开发代码\iocomm\loaddriver\loaddriver.cpp(78): error C2220: 警告被视为错误 - 没有生成“object”文件
+g:\驱动开发代码\iocomm\loaddriver\loaddriver.cpp(78): warning C4100: “DriverObject”: 未引用的形参
+g:\驱动开发代码\iocomm\loaddriver\loaddriver.cpp(110): warning C4189: “file_size”: 局部变量已初始化但不引用
+g:\驱动开发代码\iocomm\loaddriver\loaddriver.cpp(192): warning C4245: “初始化”: 从“NTSTATUS”转换到“ULONG”，有符号/无符号不匹配
+g:\驱动开发代码\iocomm\loaddriver\loaddriver.cpp(195): warning C4189: “oA”: 局部变量已初始化但不引用
+  main.cpp
+g:\驱动开发代码\iocomm\loaddriver\main.cpp(24): error C2220: 警告被视为错误 - 没有生成“object”文件
+g:\驱动开发代码\iocomm\loaddriver\main.cpp(24): warning C4100: “DriverObject”: 未引用的形参
+  正在生成代码...

@@ -1,0 +1,15 @@
+﻿  Building 'LoadDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  ALG.cpp
+  file.cpp
+  hide.cpp
+  Loaddriver.cpp
+  main.cpp
+  mm.cpp
+  pml4.cpp
+  正在生成代码...
+  LoadDriver.vcxproj -> G:\驱动开发代码\IoComm\x64\Debug\LoadDriver.sys
+  Done Adding Additional Store
+  Successfully signed: G:\\IoComm\x64\Debug\LoadDriver.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
